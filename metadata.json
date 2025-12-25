@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Copy of Yemeni Chengdu Football League (YCFL)",
+  "description": "A bilingual (Arabic/Chinese) platform for the Yemeni football community in Chengdu, featuring player registration, FIFA-style player cards, league management, and AI-powered image/video tools.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
